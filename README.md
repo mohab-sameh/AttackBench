@@ -9,7 +9,7 @@
 
 
 <h1 align='center'><i>Quick Look 👀</i></h1>
-<img src="https://github.com/mohab-sameh/Anomaly-Based-IDS-Workbench/blob/main/Implementation/app-files/assets/demo.gif" align="center">
+<img src="https://github.com/mohab-sameh/attackbench/assets/demo.gif" align="center">
 
 <br />
 
