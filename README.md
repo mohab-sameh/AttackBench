@@ -9,13 +9,13 @@
 
 
 
-<h1><i>Quick Look 👀</i></h1>
+<h2>Quick Look 👀</h2>
 <img src="https://github.com/mohab-sameh/AttackBench/blob/main/assets/demo.gif" align="center">
 
 <br />
 
 
-<h1><i>Some Features 📋</i></h1>
+<h2>Some Features 📋</h2>
 
 * Easily develop complete & usable machine learning and deep learning pipelines 🧠
 * Utilize 3rd Party Datasets (such as NSL-KDD, KDD-99, ISCX-NBXX) 📊
@@ -27,10 +27,15 @@
 * Tons of Data exploration, preprocessing, machine learning, and deep learning tools! 💻
 * Cross-Platform usability 💻📱🖥️
 
+<br />
+
+<h2>Demo</h2>
+Want to see AttackBench in action?
+[![AttackBench | Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://attackbench.streamlit.app)
 
 <br />
 
-<h1><i>Tested Platforms 🖥️</i></h1>
+<h2>Tested Platforms 🖥️</h2>
 
 * Deployed on Windows 10 (20H2), Mac OS 10.14, Ubuntu 18.04/20.04
 * Access through any device with your browser of choice (tested on Firefox, Safari, MS Edge, Chrome, Opera).
@@ -40,7 +45,7 @@
 
 <br />
 
-<h1><i>Installation 📜</i></h1>
+<h2>Installation 📜</h2>
 
 * Install requirements:
 ```
@@ -51,7 +56,7 @@ pip install requirements.txt
 
 
 <br />
-<h1><i>Usage⌨️</i></h1>
+<h2>Usage⌨️</h2>
 
 * Run app:
 ```
@@ -65,7 +70,7 @@ streamlit run app.py
 
 
 <br />
-<h1><i>Packet Capture Dependencies 🔍</i></h1>
+<h2>Packet Capture Dependencies 🔍</h2>
 
 * Libpcap:
 ```
