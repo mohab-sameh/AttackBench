@@ -10,6 +10,7 @@
 
 
 <h2>Quick Look 👀</h2>
+
 <img src="https://github.com/mohab-sameh/AttackBench/blob/main/assets/demo.gif" align="center">
 
 <br />
