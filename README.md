@@ -10,7 +10,6 @@
 
 
 <h2>Quick Look 👀</h2>
-
 <img src="https://github.com/mohab-sameh/AttackBench/blob/main/assets/demo.gif" align="center">
 
 <br />
@@ -32,6 +31,7 @@
 
 <h2>Demo</h2>
 Want to see AttackBench in action?
+
 [![AttackBench | Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://attackbench.streamlit.app)
 
 <br />
