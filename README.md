@@ -33,7 +33,7 @@
 
 Want to see AttackBench in action?
 
-<a href="">
+<a href="https://attackbench.streamlit.app/" target="_blank">
 
 ![AttackBench | Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
