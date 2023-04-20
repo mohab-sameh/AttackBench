@@ -9,7 +9,7 @@
 
 
 <h1 align='center'><i>Quick Look 👀</i></h1>
-<img src="https://github.com/mohab-sameh/attackbench/assets/demo.gif" align="center">
+<img src="https://github.com/mohab-sameh/AttackBench/assets/demo.gif" align="center">
 
 <br />
 
