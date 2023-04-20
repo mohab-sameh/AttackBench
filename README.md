@@ -4,6 +4,9 @@
 
 <p align='center'>AttackBench is a workbench for the research and development of Anomaly-Based Intrusion Detection Systems.</p>
 <p align='center'>Simulate, research, and develop ML-powered Intrusion Detection Systems to prevent next-gen network attacks.</p>
+
+![image](https://user-images.githubusercontent.com/37941642/233387448-e74d4e64-9ae6-4f0f-bd73-8578bb19d5de.png)
+
 <br />
 
 
