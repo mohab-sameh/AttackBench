@@ -9,13 +9,13 @@
 
 
 
-<h1 align='center'><i>Quick Look 👀</i></h1>
+<h1><i>Quick Look 👀</i></h1>
 <img src="https://github.com/mohab-sameh/AttackBench/blob/main/assets/demo.gif" align="center">
 
 <br />
 
 
-<h1 align='center'><i>Some Features 📋</i></h1>
+<h1><i>Some Features 📋</i></h1>
 
 * Easily develop complete & usable machine learning and deep learning pipelines 🧠
 * Utilize 3rd Party Datasets (such as NSL-KDD, KDD-99, ISCX-NBXX) 📊
@@ -30,7 +30,7 @@
 
 <br />
 
-<h1 align='center'><i>Tested Platforms 🖥️</i></h1>
+<h1><i>Tested Platforms 🖥️</i></h1>
 
 * Deployed on Windows 10 (20H2), Mac OS 10.14, Ubuntu 18.04/20.04
 * Access through any device with your browser of choice (tested on Firefox, Safari, MS Edge, Chrome, Opera).
@@ -40,7 +40,7 @@
 
 <br />
 
-<h1 align='center'><i>Installation 📜</i></h1>
+<h1><i>Installation 📜</i></h1>
 
 * Install requirements:
 ```
@@ -51,7 +51,7 @@ pip install requirements.txt
 
 
 <br />
-<h1 align='center'><i>Usage⌨️</i></h1>
+<h1><i>Usage⌨️</i></h1>
 
 * Run app:
 ```
@@ -65,7 +65,7 @@ streamlit run app.py
 
 
 <br />
-<h1 align='center'><i>Packet Capture Dependencies 🔍</i></h1>
+<h1><i>Packet Capture Dependencies 🔍</i></h1>
 
 * Libpcap:
 ```
