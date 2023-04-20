@@ -2,7 +2,7 @@
 
 <h1 align='center'> AttackBench 🔍</h1>
 
-![image](https://user-images.githubusercontent.com/37941642/233387722-b65655f0-24b8-4432-89f4-21e0913e0716.png)
+![image](https://user-images.githubusercontent.com/37941642/233387929-d4411cb5-06ff-4069-8fb1-28593fc4fd59.png)
 
 <p align='center'>AttackBench is a workbench for the research and development of Anomaly-Based Intrusion Detection Systems.</p>
 <p align='center'>Simulate, research, and develop ML-powered Intrusion Detection Systems to prevent next-gen network attacks.</p>
