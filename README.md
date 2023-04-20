@@ -30,7 +30,14 @@
 <br />
 
 <h2>Demo</h2>
-Want to see AttackBench in action?  [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://attackbench.streamlit.app/)
+
+Want to see AttackBench in action?
+
+<a href="">
+
+![AttackBench | Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+
+</a>
 
 
 <br />
