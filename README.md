@@ -1,6 +1,7 @@
 ![OS](https://img.shields.io/badge/OS-Windows/Mac/Ubuntu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![Language](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![IDE](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![Platform](https://img.shields.io/badge/Platform-Streamlit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![Models](https://img.shields.io/badge/Models-Sklearn/Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <h1 align='center'> AttackBench 🔍</h1>
+
 ![image](https://user-images.githubusercontent.com/37941642/233387722-b65655f0-24b8-4432-89f4-21e0913e0716.png)
 
 <p align='center'>AttackBench is a workbench for the research and development of Anomaly-Based Intrusion Detection Systems.</p>
