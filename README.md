@@ -31,6 +31,7 @@
 
 <h2>Demo</h2>
 Want to see AttackBench in action?
+
 <br />
 
 [![AttackBench | Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://attackbench.streamlit.app)
