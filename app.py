@@ -1,6 +1,5 @@
 from json import encoder
 from altair.vegalite.v4.api import value
-from keras import layers
 import streamlit as st
 from sklearn.preprocessing import LabelEncoder
 import numpy as np 
