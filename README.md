@@ -71,7 +71,7 @@ streamlit run app.py
 ```
 * Use through your browser of choice. 
 
-* Or Try a ready cloud-deployed instance [here](https://share.streamlit.io/mohab-sameh/anomaly-based-ids-workbench/main/Implementation/app-files/app.py)
+* Or Try a ready cloud-deployed instance [here]([https://share.streamlit.io/mohab-sameh/anomaly-based-ids-workbench/main/Implementation/app-files/app.py](https://attackbench.streamlit.app/))
 
 
 
